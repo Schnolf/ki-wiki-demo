@@ -14,6 +14,8 @@ Beispiel-Wiki zum Webinar **„Selbst gebaut statt gekauft: Dein persönliches K
 
 Inspiriert von Andrej Karpathys [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
+> **Eigenes Wiki starten?** Die [Checkliste](CHECKLISTE.md) führt dich in vier Schritten vom leeren Ordner zum ersten Durchlauf.
+
 ## So probierst du es aus
 
 1. Ordner kopieren, in [Claude Code](https://code.claude.com) öffnen. Optional zusätzlich als Vault in [Obsidian](https://obsidian.md) öffnen.
