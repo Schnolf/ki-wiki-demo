@@ -38,6 +38,7 @@ summary: 1–2 eigene Sätze, worum es geht und warum es relevant ist.
 ---
 ```
 
+- `erstellt` ist das Datum der ursprünglichen Quelle bzw. Notiz, nicht das Datum, an dem die Wiki-Seite angelegt wurde.
 - Dateinamen in `kebab-case`, ohne Umlaute (`ä→ae`, `ö→oe`, `ü→ue`, `ß→ss`).
 - Querverweise als `[[dateiname|Anzeigetext]]` (Obsidian-Wikilinks).
 - Doppelpunkt in YAML-Werten nur in Anführungszeichen.
