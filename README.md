@@ -1,6 +1,6 @@
 # KI-Wiki-Demo
 
-Beispiel-Wiki zum Webinar **„Selbst gebaut statt gekauft: Dein persönliches KI-Wiki“** (Max Höldl, CTRL+ALT+LEAD).
+Beispiel-Wiki zum Webinar **„Selbst gebaut statt gekauft: Ein Ordner als dein Second Brain“** (Max Höldl, CTRL+ALT+LEAD).
 
 > **Hinweis:** Die Notizen sind fiktiv. Die Bücher sind echt (Ewald Terhart, *Lehr-Lern-Methoden*; John Dewey, *Democracy and Education*), die Zusammenfassungen sind kurze Lernnotizen zu Demozwecken und ersetzen nicht die Lektüre.
 
